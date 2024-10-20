@@ -1,4 +1,0 @@
-.app{
-  display: grid;
-  grid-template-rows: 80px auto; /*So the first section is only 80px and the other section is set to auto*/
-}
